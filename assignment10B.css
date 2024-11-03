@@ -1,0 +1,17 @@
+.parent {
+  position: relative;
+}
+
+.c1 {
+  position: absolute;
+}
+
+.c3 {
+  position: relative;
+}
+
+.c4 {
+  position: absolute;
+  left: 80vw;
+  top: 120px;
+}
